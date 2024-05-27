@@ -1,5 +1,5 @@
 # Curve_Fitting
-Some fundamental method of doing curve fitting or interpolation.
+Fundamental methods of doing curve fitting or interpolation.
 
 ## curve_fitting
 reference: GAMES102 homework [01](https://github.com/Ubpa/GAMES102/tree/main/homeworks/hw1), [02](https://github.com/Ubpa/GAMES102/tree/main/homeworks/hw2) and [03](https://github.com/Ubpa/GAMES102/tree/main/homeworks/hw3) \
