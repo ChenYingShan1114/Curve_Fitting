@@ -75,6 +75,9 @@ def nn(para, data_x, para_fit):
         tf.keras.layers.Dense(units = 164, activation = 'relu'),
         tf.keras.layers.Dense(units = 164, activation = 'relu'),
         tf.keras.layers.Dense(units = 164, activation = 'relu'),
+        tf.keras.layers.Dense(units = 164, activation = 'relu'),
+        tf.keras.layers.Dense(units = 164, activation = 'relu'),
+        tf.keras.layers.Dense(units = 164, activation = 'relu'),
         tf.keras.layers.Dense(1)               
     ])
     model.compile(optimizer="adam", loss='mse')
